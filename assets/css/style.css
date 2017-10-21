@@ -1,0 +1,35 @@
+body {
+	font-family: 'Righteous', cursive;
+	background: url(https://source.unsplash.com/-48aJfQpFCE);
+);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+#match {
+	margin-left: 40px;
+}
+
+.card {
+	margin-top: 20px;
+}
+
+.rounded {
+	width: 15%;
+	height: 15%;
+}
+
+.jumbotron {
+	background: none;
+	color: white;
+	font-size: 3em;
+	padding-bottom: 5px;
+}
+
+.timer {
+	background: none;
+	color: white;
+	text-align: center;
+}
